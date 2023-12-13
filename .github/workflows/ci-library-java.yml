@@ -1,4 +1,4 @@
-name: Java Library CI
+name: Java Library CI2
 
 on:
   pull_request:
